@@ -5,11 +5,6 @@
 
 
 
-# Linguagens:
-- Node.js
-- React Native
-- Yarn
-- Expo
 
 # Como executar:
 - 1 Clone esse repositório
